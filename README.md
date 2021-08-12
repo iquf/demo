@@ -26,8 +26,8 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 [Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
-[Featured](#featured) <br> 
-[Extracurricular](#extracurricular) <br> 
+[Featured](#####featured) <br> 
+[Extracurricular](####extracurricular) <br> 
 
 <!-- ABOUT Section Ends -->
 
